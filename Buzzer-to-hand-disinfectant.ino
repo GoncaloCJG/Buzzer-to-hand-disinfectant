@@ -2,11 +2,11 @@ int pirSensor1 = 2; // Define Pin 2 (Pir on the disinfectant)
 int pirSensor2 = 4; // Define Pin 4 (Pir after the disinfectant)
 int pinBuzzer = 7; // Define the Buzzer
 
-// Variables that will stores the time values when movement detected
+// Variables that will store the time values when movement detected
 unsigned long currentMillis1; 
 unsigned long currentMillis2;
 
-// Innterval in which if Pin 4 detects a signal, the buzzer will not beep
+// Interval in which if Pin 4 detects a signal, the buzzer will not beep
 const unsigned long interval = 4000; 
 
 // Initialize the Pins
