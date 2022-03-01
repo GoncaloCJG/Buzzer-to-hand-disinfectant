@@ -24,4 +24,8 @@ The prototype has two PIR sensors, one on top of the disinfectant, and another h
 *PIR sensor on the disinfectant.*
 
 ## Simulation
-Soon.
+This video contains two phases:
+The first one is when someone doesn't disinfect their hands, meaning no movement was detected on the left PIR sensor and passes by the second PIR sensor generating a beep. The second is when someone disinfects their hands and consequently passes by the second PIR sensor generating no beep.
+
+https://user-images.githubusercontent.com/83720730/156224831-54ea9cf1-4fa6-47c3-af67-414f92269bb2.mp4
+
