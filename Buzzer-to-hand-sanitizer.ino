@@ -1,5 +1,5 @@
-int pirSensor1 = 2; // Define Pin 2 (Pir on the disinfectant)
-int pirSensor2 = 4; // Define Pin 4 (Pir after the disinfectant)
+int pirSensor1 = 2; // Define Pin 2 (Pir on the hand sanitizer)
+int pirSensor2 = 4; // Define Pin 4 (Pir after the hand sanitizer)
 int pinBuzzer = 7; // Define the Buzzer
 
 // Variables that will store the time values when movement detected
